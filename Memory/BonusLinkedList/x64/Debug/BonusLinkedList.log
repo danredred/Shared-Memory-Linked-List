@@ -1,0 +1,3 @@
+﻿  BonusLinkedList.cpp
+X:\test0\Documents\Work\Memory\BonusLinkedList\BonusLinkedList.cpp(98,1): warning C4102: 'viewFail': unreferenced label
+  BonusLinkedList.vcxproj -> X:\test0\Documents\Work\Memory\x64\Debug\BonusLinkedList.exe
